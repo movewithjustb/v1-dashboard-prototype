@@ -21459,6 +21459,7 @@ fieldset:disabled .btn {
 
 .input-group {
   border-radius: 0.5rem;
+  padding: 10px;
 }
 
 .input-group,
